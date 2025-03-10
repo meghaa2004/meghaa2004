@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @meghaa2004
-- 👀 I’m interested in cybersecurity and web development 
-- 🌱 I’m currently learning a lot of new things 
+- 🔭 I’m currently working on Web Security Projects  
+- 🌱 I’m learning Advanced Cybersecurity & Automation  
 - 💞️ I’m looking to collaborate on projects related to my field
+- 💬 Ask me about Web Development | Linux | Security
 - 📫 How to reach me meghaj406@gmail.com
 
 <!---
